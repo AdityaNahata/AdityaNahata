@@ -13,8 +13,9 @@
 
 - 📫 How to reach me **jainqwerty5@gmail.com**
 
-- ⚡ Fun fact **I can't rest until I finish my work**
+- ⚡ Fun fact **I am good at reading docs and solving problems**
 
+[![An image of @nahatasde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nahatasde)](https://holopin.io/@nahatasde)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nahatasde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahatasde" height="30" width="40" /></a>
