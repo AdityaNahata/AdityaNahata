@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [python-api development using FastAPI](https://github.com/AdityaNahata/python-api)
 
-- 🌱 I’m currently learning **API development, Reinforcement learning, DSA**
+- 🌱 I’m currently learning **ReactJS, DSA**
 
-- 💬 Ask me about **python, C++, ML, AI**
+- 💬 Ask me about **Algorithms, C++, ML, AI**
 
 - 📫 How to reach me **jainqwerty5@gmail.com**
 
